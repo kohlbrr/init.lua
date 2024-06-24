@@ -1,8 +1,7 @@
 ### kohlbrr's init.lua
-Prerequesites {
+Prerequesites
 - [packer](https://github.com/wbthomason/packer.nvim)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
-}
 
 Based on [ThePrimeagen's](https://github.com/ThePrimeagen) setup video, updated and personalized
 
